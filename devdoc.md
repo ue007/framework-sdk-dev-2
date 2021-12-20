@@ -1,21 +1,3 @@
-
-
-# Tech Stack
-
-开发语言： Typescript 
-
-语法检测： eslint 
-
-打包工具： Webpack 
-
-第三方库： Three.js 
-
-代码管理： Git 
-
-数据模拟: Mock 部署
-
-
-
 # 环境配置
 
 ## EditorConfig
