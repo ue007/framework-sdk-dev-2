@@ -1,19 +1,21 @@
-# framework-sdk-dev-2
+# Contribute
 
-## How To SetUp
+## Set up
 
 ```sh
 yarn
 ```
 
-## How To Dev
+## Dev
 
 -   build and watch g packages
+
 ```sh
 yarn watch
 ```
 
 -   preview site
+
 ```sh
 yarn start
 ```
@@ -25,6 +27,3 @@ yarn test
 ```
 
 ## Publish
-```
-
-```
